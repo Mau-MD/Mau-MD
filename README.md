@@ -1,7 +1,10 @@
-### Hello there 👋 I'm Mauricio Muñoz
+# Hello there 👋 I'm Mauricio Muñoz
+<!-- AUTO-GENERATED-CONTENT:END -->
 ### An enthusiastic highschool programmer :)
+<!-- AUTO-GENERATED-CONTENT:END -->
+---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mau-MD&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mau-MD&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **Mau-MD/Mau-MD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
