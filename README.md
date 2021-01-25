@@ -6,6 +6,11 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mau-MD&theme=nord&column=6&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Mau-MD&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mau-MD&layout=compact" />
+</div>
+
 - 🔭 I’m currently working on [Competitive Programming](https://github.com/Mau-MD/Competitive-Programming) and [Code Visualizer](https://github.com/Mau-MD/CodeVisualizer)
 
 
