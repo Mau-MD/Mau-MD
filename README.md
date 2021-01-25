@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello there 👋 I'm Mauricio Muñoz
+### An enthusiastic highschool programmer :)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mau-MD&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
