@@ -6,6 +6,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mau-MD&theme=nord&column=6&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
+- 🔭 I’m currently working on [Competitive Programming](https://github.com/Mau-MD/Competitive-Programming) and [Code Visualizer](https://github.com/Mau-MD/CodeVisualizer)
+
+
 <!--
 **Mau-MD/Mau-MD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
