@@ -14,7 +14,7 @@
 
 
 ---
-- 🔭 I’m currently working on [Competitive Programming](https://github.com/Mau-MD/Competitive-Programming) and [Code Visualizer](https://github.com/Mau-MD/CodeVisualizer)
+- 🔭 I’m currently working on [Competitive Programming](https://github.com/Mau-MD/Competitive-Programming) and [Discord Card Game Bot](https://github.com/Mau-MD/DiscordCardGameBot)
 
 
 <!--
