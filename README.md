@@ -14,7 +14,21 @@
 
 
 ---
-- 🔭 I’m currently working on [Competitive Programming](https://github.com/Mau-MD/Competitive-Programming) and [Discord Card Game Bot](https://github.com/Mau-MD/DiscordCardGameBot)
+- 🔭 I’m currently working on my personal [Portfolio](https://github.com/Mau-MD/portfolio)
+- 🌱  I'm currentl learning **Frontend Development**
+
+---
+I currently know
+<ul>
+  <li> C++ </li>
+  <li> Java </li>
+  <li> Python </li>
+  <li> OpenCV </li>
+  <li> Node.js </li>
+  <li> React </li>
+  <li> Axios </li>
+  <li> Redux </li>
+ <ul>
 
 
 <!--
