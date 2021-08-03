@@ -11,6 +11,7 @@
 [<img align="left" alt="Mau" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Mau | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][email]
 
+<br/>
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -30,7 +31,8 @@
 
 
 
-[website]: htps://mau-md.github.io
+[website]: https://mau-md.github.io
 [email]: mailto:j.mauricio.munoz1@gmail.com
+[omegaup]: https://mau-md.github.io/Omegaup-CDP
 
 
