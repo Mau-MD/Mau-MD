@@ -1,4 +1,5 @@
 ### Hello, I'm Mauricio, but you can call me [Mau][website] 👋
+[![Website](https://img.shields.io/website?label=mau-md.github.io&style=for-the-badge&url=mau-md.github.io)](https://mau-md.github.io)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mau-MD&theme=nord&column=6&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 ## I'm a fullstack software engineer looking to create great software! 
