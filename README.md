@@ -3,8 +3,10 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mau-MD&theme=nord&column=6&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 ## I'm a fullstack software engineer looking to create great apps! 
-- 🎯 I'm currently working on a [Problem Creator API][omegaup] for OmegaUp 
-- 📖 I'm currently learning Django, Nest.js, Websockets, and a bunch of other technologies 🥴
+- 🏆 I will be interning at Meta as a FBU Software Engineer next summer! 
+- 🎯 I'm currently interning at [omegaUp][omegaup] 
+- 💪 I'm currently leading the Development Team at [Packachange.com][packachange]
+- 📖 I'm currently learning Docker, Nest.js, Websockets, and a bunch of other technologies 🥴
 - 👥 I'm open to new projects ideas and collaborations.
 - 👀 Fun fact: I love graphic design and video editing! 📹
 
@@ -35,6 +37,7 @@
 
 [website]: https://mau-md.github.io
 [email]: mailto:j.mauricio.munoz1@gmail.com
-[omegaup]: https://mau-md.github.io/Omegaup-CDP
+[omegaup]: https://omegaup.com/
+[packachange]: https://packachange.com
 ![](https://hit.yhype.me/github/profile?user_id=74751751)
 
