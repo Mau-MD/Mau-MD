@@ -13,6 +13,8 @@
 ### Connect with me: 
 [<img align="left" alt="Mau" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Mau | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/minutemailer.svg" />][email]
+<br/><br/>
+[![linkedin](https://linkedin-github.herokuapp.com/api/render/Mauricio%20Muñoz/Software%20Engineer/Meta/CETYS%20Universidad/dark/https%3A%2F%2Fmedia-exp1.licdn.com%2Fdms%2Fimage%2FC4E03AQFUkwwthD9trg%2Fprofile-displayphoto-shrink_100_100%2F0%2F1637085592669%3Fe%3D1645056000%26v%3Dbeta%26t%3Dkn9is4aVvnqnzR2FMdirLcQvGlutrXbZbFa0tXWjGlw)](https://www.linkedin.com/in/mmunoz15/)
 
 <br/>
 
