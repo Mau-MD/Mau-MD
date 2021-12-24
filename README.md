@@ -49,6 +49,11 @@
 ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 ![zsh](https://img.shields.io/badge/oh_my_zsh-1A2C34?style=for-the-badge&logo=ohmyzsh&logoColor=white)
 
+<br/>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mau-MD&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+
 [website]: https://mau-md.github.io
 [email]: mailto:j.mauricio.munoz1@gmail.com
 [omegaup]: https://omegaup.com/
