@@ -15,7 +15,7 @@
 <a href="https://www.facebook.com/Mau.dieguez829283/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="mailto:j.mauricio.munoz1@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"> </a>
 <br/><br/>
-[![linkedin](https://linkedin-github.herokuapp.com/api/render/Mauricio%20Munoz/Software%20Engineer/Meta/CETYS%20Universidad/dark/https%3A%2F%2Fmedia-exp1.licdn.com%2Fdms%2Fimage%2FC4E03AQFUkwwthD9trg%2Fprofile-displayphoto-shrink_800_800%2F0%2F1637085592669%3Fe%3D1651708800%26v%3Dbeta%26t%3DShB3sSZw1U1EufEvNw8tp2I27mf5fUGnElAnma8AtnY)
+![linkedin](https://linkedin-github.herokuapp.com/api/render/Mauricio%20Munoz/Software%20Engineer/Meta/CETYS%20Universidad/dark/https%3A%2F%2Fmedia-exp1.licdn.com%2Fdms%2Fimage%2FC4E03AQFUkwwthD9trg%2Fprofile-displayphoto-shrink_800_800%2F0%2F1637085592669%3Fe%3D1651708800%26v%3Dbeta%26t%3DShB3sSZw1U1EufEvNw8tp2I27mf5fUGnElAnma8AtnY)
 
 <br/>
 
