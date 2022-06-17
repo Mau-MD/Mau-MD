@@ -3,10 +3,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mau-MD&theme=nord&column=6&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 ## I'm a fullstack software engineer looking to create great apps! 
-- 🏆 I will be interning at Meta as a FBU Software Engineer next summer! 
-- 🎯 I'm currently interning at [omegaUp][omegaup] 
-- 💪 I'm currently leading the Development Team at [Packachange.com][packachange]
-- 📖 I'm currently learning Docker, Nest.js, Websockets, and a bunch of other technologies 🥴
+- 🏆 I'm currently interning at Meta as a FBU Software Engineer! 
+- 📖 I'm currently learning Svelte, GraphQl, Websockets, and a bunch of other technologies 🥴
 - 👥 I'm open to new projects ideas and collaborations.
 - 👀 Fun fact: I love graphic design and video editing! 📹
 
