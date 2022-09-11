@@ -3,7 +3,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mau-MD&theme=nord&column=6&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 ## I'm a fullstack software engineer looking to create great apps! 
-- 🏆 I'm currently interning at Meta as a FBU Software Engineer! 
+- 🏆 Former intern at Meta as a MU Software Engineer! 
 - 📖 I'm currently learning Svelte, GraphQl, Websockets, and a bunch of other technologies 🥴
 - 👥 I'm open to new projects ideas and collaborations.
 - 👀 Fun fact: I love graphic design and video editing! 📹
