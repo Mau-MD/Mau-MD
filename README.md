@@ -3,7 +3,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mau-MD&theme=nord&column=6&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 ## I'm a software engineer looking to create great apps! 
-- 🏆 Current intern at Microsoft and Colonist. Ex-Meta Intern
+- 🏆 Current Software Engineer at Colonist. Ex-Microsoft Ex-Meta Intern
 - 👥 I'm open to new projects ideas and collaborations.
 - 👀 Fun fact: I love graphic design and video editing! 📹
 
